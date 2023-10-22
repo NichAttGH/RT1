@@ -15,7 +15,7 @@ The 'while cycle' represents the steps that the robot must take to achieve the g
 
 If you want to run the code, just follow steps below:
 1. **_open the terminal shell;_**
-2. **_move into this path:_** `FirstAssignmentRT1/python_simulator_rt1/robot-sim`**_;_**
+2. **_move into this path:_** `python_simulator_rt1/robot-sim`**_;_**
 3. **_write this line of code:_** `$python2 run.py FirstAssignment.py`**_;_**
 
 ### PseudoCode

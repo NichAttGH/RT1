@@ -1,4 +1,4 @@
-# First Assignment for Research Track 1
+# First Assignment
 
 ### Introduction to the Code
 There are 5 functions: *_drive_*, *_turn_*, *_find_silver_*, *_find_golden_* and *_checklist_*; each function is explained into the *_FirstAssignment.py_*.
@@ -80,7 +80,7 @@ else if the robot is not well aligned with the token
 ### Future Improvements ###
 *_Allow the robot to always find the closest token to it by performing, for example, a 360 degree turn on itself to store the distances of all the tokens present in the environment into a list and improve execution time_*
 
-# Second Assignment for Research Track 1
+# Second Assignment
 
 ### Introduction to the Code
 The assignment provides the use of Rviz and Gazebo for graphical interfaces and a robot that can move in the environment with the possibility to avoid obstacles.

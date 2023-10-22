@@ -95,7 +95,7 @@ If you want to run the project, there are several requirements to follow (**_Pay
 3. **_install gazebo dependencies from this link:_** `https://classic.gazebosim.org/tutorials?tut=ros_installing&cat=connect_ros`
 4. **_install xterm with this command:_** `sudo apt-get install xterm`
 5. **_go into the directory of the workspace;_**
-6. **_download the repository with this command:_** `git clone https://github.com/NichAttGH/2_assignment_RT1.git`
+6. **_download the repository with this command:_** `git clone https://github.com/NichAttGH/RT1.git`
 7. **_run the command:_** `roslaunch assignment_2_2022 assignment_2.launch`
 
 At this point will be opened 4 windows: 1 for Rviz, 1 for Gazebo and 2 for respectively *Node_A.py* and *Node_C.py*.
